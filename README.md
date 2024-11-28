@@ -7,8 +7,8 @@
       <img alt="Neovim v0.10.2" src="https://img.shields.io/badge/Neovim-0.10.2-6cbe55.svg?logo=neovim&style=for-the-badge&labelColor=30373d&logoColor=6cbe55"/></a>
     <a href="https://github.com/L3MON4D3/LuaSnip/releases/tag/v2.3.0">
       <img alt="LuaSnip v2.3.0" src="https://img.shields.io/badge/LuaSnip-2.3.0-yellow.svg?logo=lua&style=for-the-badge&labelColor=30373d&logoColor=yellow"/></a>
-    <a href="https://github.com/JetBrains/kotlin/releases/tag/v2.0.20">
-      <img alt="Kotlin v2.0.21" src="https://img.shields.io/badge/Kotlin-2.0.21-7f52ff.svg?logo=kotlin&style=for-the-badge&labelColor=30373d&logoColor=7f52ff"/></a>
+    <a href="https://github.com/JetBrains/kotlin/releases/tag/v2.1.0">
+      <img alt="Kotlin v2.1.0" src="https://img.shields.io/badge/Kotlin-2.1.0-7f52ff.svg?logo=kotlin&style=for-the-badge&labelColor=30373d&logoColor=7f52ff"/></a>
     <a href="https://github.com/franckrasolo/luasnip4k.nvim/blob/trunk/LICENSE">
       <img alt="MIT license" src="https://img.shields.io/badge/License-MIT-blue.svg?logo=spdx&style=for-the-badge&labelColor=30373d"/></a>
 </p>
